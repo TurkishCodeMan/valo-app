@@ -27,6 +27,8 @@ npm yada yarn packet yöneticisi kullanabilirsiniz
 npm install - yarn
 
 npm run dev - yarn dev
+
+Go to http://localhost:5173
 ```
 
 
