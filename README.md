@@ -24,9 +24,9 @@ Apiden gelen verileri state de tutarak kaydetme işlevi vardır.
 npm yada yarn packet yöneticisi kullanabilirsiniz
 
 ```bash
-npm install - yarn
+npm install veya yarn
 
-npm run dev - yarn dev
+npm run dev veya yarn dev
 
 Go to http://localhost:5173
 ```
