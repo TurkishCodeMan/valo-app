@@ -1,0 +1,37 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --color-red:#DC3D4B;
+  --color-text:#FAFAFA;
+  --color-text-black:#444444;
+}
+
+/* semantic color variables for this project */
+:root {
+  --card-border:2rem;
+}
+/* 
+@media (prefers-color-scheme: dark) {
+  :root {
+ 
+  }
+} */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  font-weight: normal;
+  font-family: 'Open Sans',sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+  font-size: 1.6rem;
+}
